@@ -1,0 +1,22 @@
+name: lakes6
+description: >-
+  Sample app from "Building Layouts", https://docs.flutter.dev/ui/layout.
+version: 1.0.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  #assets:
+    # - Images/Cover.jpg
+    # - Images/Profile.jpg
